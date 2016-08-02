@@ -1,6 +1,6 @@
 # KV
 
-**TODO: Add description**
+Tutorial at http://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html.
 
 ## Installation
 
